@@ -51,7 +51,7 @@ function Hero() {
           delay: 1.35,
         }}
       >
-        I'm a final year BTECH student with expertise in coding and creating top-notch
+        I&apos;m a final year BTECH student with expertise in coding and creating top-notch
         digital experiences. My current focus is on completing my bachelor degree.
         {/* accessible and centered around user needs, as part of the team at&nbsp; */}
         {/* <Link href="https://rapidops.com" target="_blank" className="link">
