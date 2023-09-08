@@ -1,0 +1,4 @@
+1. nextjs with typescript
+2. some dependecies like sass react-icons framer-motion(for animation)
+3. _ before evert scss file cuz it is partial file, n it stop being compiled by their own
+4. SVG 
