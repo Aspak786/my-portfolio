@@ -62,7 +62,7 @@ function Navbar() {
             ease: "easeInOut",
           }}
         >
-          <Link href="http://localhost:3000/">
+          <Link href="https://my-portfolio-two-delta-75.vercel.app/">
             <Logo />
           </Link>
         </motion.div>
