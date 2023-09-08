@@ -34,7 +34,7 @@ function About() {
           </p>
           <p className="about-grid-info-text">
             Fast-forward to today,I am pursuing my bachelor degree in Computer Science and Technology,
-            currently i'm in final year. 
+            currently i&apos;m in final year. 
             
           </p>
 
