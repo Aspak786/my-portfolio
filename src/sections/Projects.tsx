@@ -127,6 +127,7 @@ function Projects() {
                       <Link
                         href={projectExternalLinks.github}
                         className="project-info-links-item-link"
+                        target="_blank"
                       >
                         <FiGithub />
                       </Link>
@@ -135,6 +136,7 @@ function Projects() {
                       <Link
                         href={projectExternalLinks.externalLink}
                         className="project-info-links-item-link"
+                        target="_blank"
                       >
                         <FiExternalLink />
                       </Link>
