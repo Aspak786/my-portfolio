@@ -28,19 +28,18 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-            Bonjour! My name is Aspak, and I am a software engineer Motivated Software Engineer with hands-on experience in VoLTE (IMS) testing, core IMS validation, and telecom network analysis. Skilled in Java, Python, and cloud technologies. Proficient in analyzing SIP and Diameter signaling using Wireshark. Eager to contribute to innovative software development and network engineering projects.
+            Bonjour! My name is Aspak, and I am a software engineer Motivated Software Engineer with hands-on experience in VoLTE (IMS) testing, core IMS validation, and telecom network analysis. 
           </p>
           <p className="about-grid-info-text">
-            Fast-forward to today,I am pursuing my bachelor degree in Computer Science and Technology,
-            currently i&apos;m in final year. 
+            Skilled in Java, Python, and cloud technologies. 
+            Proficient in analyzing SIP and Diameter signaling using Wireshark. 
             
           </p>
 
           <p className="about-grid-info-text">
-            Additionally, I specialize in designing and developing
-            webpages. I loved to prepare webpages.
+            Eager to contribute to innovative software development and network engineering projects.
           </p>
-          <p className="about-grid-info-text">
+          /*<p className="about-grid-info-text">
             I am also working on a new project called&nbsp;
             <Link
               className="link"
@@ -50,7 +49,7 @@ function About() {
               MyAi,
             </Link>
             &nbsp;aimed to create my own AI.
-          </p>
+          </p> */
           <p className="about-grid-info-text">
             Here are a few technologies I’ve been working with recently:
           </p>
