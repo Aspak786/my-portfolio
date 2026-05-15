@@ -28,9 +28,7 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-            Bonjour! My name is Aspak, and I am a coder and passionate about creating
-            digital content for the web. My interest in web development was
-            sparked in 2021 when I created my first project as my portfolio, using basic HTML and CSS.
+            Bonjour! My name is Aspak, and I am a software engineer Motivated Software Engineer with hands-on experience in VoLTE (IMS) testing, core IMS validation, and telecom network analysis. Skilled in Java, Python, and cloud technologies. Proficient in analyzing SIP and Diameter signaling using Wireshark. Eager to contribute to innovative software development and network engineering projects.
           </p>
           <p className="about-grid-info-text">
             Fast-forward to today,I am pursuing my bachelor degree in Computer Science and Technology,
