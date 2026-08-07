@@ -21,14 +21,14 @@ function Experience() {
       end: "April 2025",
       shortDescription: [
         "Tested VoLTE (IMS) UE registration, verified successful call setup, and ensured proper signaling and call quality from registration to call completion.",
-        "",
         "Conducted functional testing of the Core IMS to validate voice, video, and messaging services. Developed and executed functional test cases for VoLTE, including lawful interception and other specialized test cases.",
         "Utilized Diameter protocol for AAA (Authentication, Authorization, and Accounting) in network services.",
         "Support HSS Expansion including installations and configuration tasks. Gained hand on experience with Oracle Virtual box for virtualized environment setups and testing.Contributed to Nokia HSS installation at Kolkata HFE, assisted in Niam installation and integration for enhanced management and monitoring.",
       ],
     },
+    
     {
-      name: "Technoshrine Infosolution(client - Vodafone Idea LTD)",
+      name: "Technoshrine Infosolution(client - Bharti India PVT LTD)",
       role: "Software Engineer",
       url: "#",
       start: "Any Month XXXX",
