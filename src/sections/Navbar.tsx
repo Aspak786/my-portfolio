@@ -123,7 +123,7 @@ function Navbar() {
               delay: 0.6,
             }}
           >
-            <Button text="Resume" link="https://my-portfolio-two-delta-75.vercel.app//Sk_Resumè.pdf" />
+            <Button text="Resume" link="https://my-portfolio-two-delta-75.vercel.app//SK_Aspak_Ali_CV.pdf" />
           </motion.div>
         </div>
       </div>
