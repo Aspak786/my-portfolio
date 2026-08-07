@@ -14,7 +14,7 @@ function Experience() {
 
   const expereinces = [
     {
-      name: "Vodafone Idea LTD",
+      name: "Vodafone Idea",
       role: "Software Engineer",
       url: "https://www.myvi.in/vodafone-idea",
       start: "July 2024",
@@ -27,25 +27,30 @@ function Experience() {
       ],
     },
     {
-      name: "Bharti India PVT LTD",
+      name: "Bharti India",
       role: "Software Engineer",
-      url: "#",
-      start: "Any Month XXXX",
-      end: "Any Month XXXX",
+      url: "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      start: "April 2025",
+      end: "Jan 2026",
       shortDescription: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pellentesque.",
-        "Curabitur sit amet quam nec nisi feugiat consequat sed vel leo. Phasellus tristique erat a nisi pharetra, nec ultrices sem euismod.",
+        "Developed and executed functional test cases for VoLTE, including lawful interception and other specialized test cases.",
+        "National Long distance [NLD] E2E testing with proper test case execution.",
+        "Taking and analysis traces from diff circles to validate feature implementation and network behaviour. Troubleshooting and identifying issues based on SIP, Diameter and IMS signalling testing activities.",
+        "Worked in Bharti SDS project, performing Wireshark trace capture and analysis.",
       ],
     },
     {
       name: "Deutsche Telekom",
       role: "Software Engineer",
-      url: "#",
-      start: "Any Month XXXX",
-      end: "Any Month XXXX",
+      url: "https://www.telekom.com/en",
+      start: "Jan 2026",
+      end: "Currently working",
       shortDescription: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pellentesque.",
-        "Curabitur sit amet quam nec nisi feugiat consequat sed vel leo. Phasellus tristique erat a nisi pharetra, nec ultrices sem euismod.",
+        "Created NREs and Test Cases based on functional requirements.",
+        "Executed manual and automated test scenarios for IMS features.",
+        "Analyzed SIP, Diameter, and IMS signaling using Wireshark.",
+        "Investigated defects, validated fixes, and collaborated with development teams.",
+        "Supported feature validation and regression testing for critical telecom releases.",
       ],
     },
   ];
