@@ -14,7 +14,7 @@ function Experience() {
 
   const expereinces = [
     {
-      name: "Technoshrine Infosolution(client - Vodafone Idea LTD)",
+      name: "client - Vodafone Idea LTD",
       role: "Software Engineer",
       url: "https://www.myvi.in/vodafone-idea",
       start: "July 2024",
@@ -26,9 +26,19 @@ function Experience() {
         "Support HSS Expansion including installations and configuration tasks. Gained hand on experience with Oracle Virtual box for virtualized environment setups and testing.Contributed to Nokia HSS installation at Kolkata HFE, assisted in Niam installation and integration for enhanced management and monitoring.",
       ],
     },
-    
     {
-      name: "Technoshrine Infosolution(client - Bharti India PVT LTD)",
+      name: "client - Bharti India PVT LTD",
+      role: "Software Engineer",
+      url: "#",
+      start: "Any Month XXXX",
+      end: "Any Month XXXX",
+      shortDescription: [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pellentesque.",
+        "Curabitur sit amet quam nec nisi feugiat consequat sed vel leo. Phasellus tristique erat a nisi pharetra, nec ultrices sem euismod.",
+      ],
+    },
+    {
+      name: "client - Deutsche Telekom",
       role: "Software Engineer",
       url: "#",
       start: "Any Month XXXX",
