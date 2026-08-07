@@ -39,7 +39,7 @@ function Hero() {
           delay: 1.05,
         }}
       >
-        I craft things for the web.
+        Software Engineer | Telecom Enthusiast | Problem Solver
       </motion.h3>
       <motion.p
         className="hero-text"
@@ -51,8 +51,7 @@ function Hero() {
           delay: 1.35,
         }}
       >
-        I&apos;m a final year BTECH student with expertise in coding and creating top-notch
-        digital experiences. My current focus is on completing my bachelor degree.
+        I&apos;m a Software Engineer passionate about building reliable software solutions and solving real-world problems.
         {/* accessible and centered around user needs, as part of the team at&nbsp; */}
         {/* <Link href="https://rapidops.com" target="_blank" className="link">
           Rapidops.
