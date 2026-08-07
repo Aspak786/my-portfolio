@@ -28,10 +28,10 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-            Bonjour! My name is Aspak, and I am a software engineer Motivated Software Engineer with hands-on experience in VoLTE (IMS) testing, core IMS validation, and telecom network analysis. 
+            Asalamu aleikum! My name is Aspak, and I am a software engineer with hands-on experience in VoLTE (IMS) testing, core IMS validation, and telecom network analysis. 
           </p>
           <p className="about-grid-info-text">
-            Skilled in Java, Python, and cloud technologies. 
+            Skilled in Python, SQl, Java and other networking technologies. 
             Proficient in analyzing SIP and Diameter signaling using Wireshark. 
             
           </p>
@@ -44,12 +44,12 @@ function About() {
             Here are a few technologies I’ve been working with recently:
           </p>
           <ul className="about-grid-info-list">
+            <li className="about-grid-info-list-item">Python</li>
+            <li className="about-grid-info-list-item">SQL</li>
             <li className="about-grid-info-list-item">Java</li>
-            <li className="about-grid-info-list-item">DSA</li>
-            <li className="about-grid-info-list-item">Python Basic</li>
-            <li className="about-grid-info-list-item">React</li>
-            <li className="about-grid-info-list-item">Javascript</li>
-            <li className="about-grid-info-list-item">Node.js</li>
+            <li className="about-grid-info-list-item">Sip & IMS</li>
+            <li className="about-grid-info-list-item">Wireshark</li>
+            <li className="about-grid-info-list-item">Automation Testing</li>
             <li className="about-grid-info-list-item">Typescript</li>
             <li className="about-grid-info-list-item">Redux Toolkit</li>
             <li className="about-grid-info-list-item">Next.js</li>
@@ -61,7 +61,7 @@ function About() {
           <div className="overlay"></div>
           <div className="overlay-border"></div>
           <div className="about-grid-photo-container">
-            <Image src="/aspak.jpeg" alt="profile" fill />
+            <Image src="/My-photo.png" alt="profile" fill />
           </div>
         </div>
       </div>
