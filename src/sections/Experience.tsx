@@ -21,9 +21,8 @@ function Experience() {
       end: "April 2025",
       shortDescription: [
         "Developed and executed functional test cases for VoLTE, including lawful interception and other specialized test cases.",
-        "Conducted functional testing of the Core IMS to validate voice, video, and messaging services.",
         "Utilized Diameter protocol for AAA (Authentication, Authorization, and Accounting) in network services.",
-        "Support HSS Expansion including installations and configuration tasks. Gained hand on experience with Oracle Virtual box for virtualized environment setups and testing.",
+        "Gained hand on experience with Oracle Virtual box for virtualized environment setups and testing.",
         "Contributed to Nokia HSS installation at Kolkata HFE, assisted in Niam installation and integration for enhanced management and monitoring.",
       ],
     },
