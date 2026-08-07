@@ -39,17 +39,7 @@ function About() {
           <p className="about-grid-info-text">
             Eager to contribute to innovative software development and network engineering projects.
           </p>
-          /*<p className="about-grid-info-text">
-            I am also working on a new project called&nbsp;
-            <Link
-              className="link"
-              target="_blank"
-              href="#"
-            >
-              MyAi,
-            </Link>
-            &nbsp;aimed to create my own AI.
-          </p> */
+          
           <p className="about-grid-info-text">
             Here are a few technologies I’ve been working with recently:
           </p>
