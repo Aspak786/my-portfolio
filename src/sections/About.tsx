@@ -33,7 +33,7 @@ function About() {
           <p className="about-grid-info-text">
             Skilled in Python, SQl, Java and other networking technologies. 
             Proficient in analyzing SIP and Diameter signaling using Wireshark. 
-            
+            currently learning Data Analytics FromCodewithHarry
           </p>
 
           <p className="about-grid-info-text">
