@@ -39,7 +39,7 @@ function Hero() {
           delay: 1.05,
         }}
       >
-        Software Engineer | Problem Solver
+        Coder | Problem Solver
       </motion.h3>
       <motion.p
         className="hero-text"
