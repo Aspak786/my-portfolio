@@ -14,7 +14,7 @@ function Experience() {
 
   const expereinces = [
     {
-      name: "client - Vodafone Idea LTD",
+      name: "Vodafone Idea LTD",
       role: "Software Engineer",
       url: "https://www.myvi.in/vodafone-idea",
       start: "July 2024",
@@ -27,7 +27,7 @@ function Experience() {
       ],
     },
     {
-      name: "client - Bharti India PVT LTD",
+      name: "Bharti India PVT LTD",
       role: "Software Engineer",
       url: "#",
       start: "Any Month XXXX",
@@ -38,7 +38,7 @@ function Experience() {
       ],
     },
     {
-      name: "client - Deutsche Telekom",
+      name: "Deutsche Telekom",
       role: "Software Engineer",
       url: "#",
       start: "Any Month XXXX",
