@@ -53,12 +53,12 @@
         background-color: var(--lightest-navy);
       }
       &-item {
-        height: 2.5rem;
+        height: 2.75rem;
         padding: 0 1.5rem;
         display: flex;
         vertical-align: middle;
         cursor: pointer;
-        width: 120%;
+        width: 100%;
         span {
           display: flex;
           justify-content: center;
