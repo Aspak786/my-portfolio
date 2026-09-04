@@ -30,8 +30,8 @@ function Experience() {
       name: "Bharti India",
       role: "Software Engineer",
       url: "https://www.airtel.in/about-bharti/about-bharti-airtel/",
-      start: "April 2025",
-      end: "Jan 2026",
+      start: "August 2024",
+      end: "April 2026",
       shortDescription: [
         "Developed and executed functional test cases for VoLTE, including lawful interception and other specialized test cases.",
         "National Long distance [NLD] E2E testing with proper test case execution.",
@@ -43,7 +43,7 @@ function Experience() {
       name: "Deutsche Telekom",
       role: "Software Engineer",
       url: "https://www.telekom.com/en",
-      start: "Jan 2026",
+      start: "April 2026",
       end: "Currently working",
       shortDescription: [
         "Created NREs and Test Cases based on functional requirements.",
